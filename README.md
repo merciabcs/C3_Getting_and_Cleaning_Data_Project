@@ -17,6 +17,6 @@ The exercise consists of the following:
 
 In the repository you will find the files:
 
--   `run\_analisys.R` is the R code to create the tidy dataset
+-   `run_analisys.R` is the R code to create the tidy dataset
 -   `tidy.txt` is the output dataset
 -   `CodeBook.md` is a file containing the description of the variables
