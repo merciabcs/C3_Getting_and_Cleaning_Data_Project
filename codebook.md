@@ -7,13 +7,12 @@ This file gives a summary list of the identifiers / measurements found in
 
 - `subject` is the test subject, listed as an ID number from 1 to 30
 - `activity` is the list of activities used in the test. They are:
-
-..- `Laying`
-..- `Sitting`
-..- `Standing`
-..- `Walking`
-..- `Walking_Downstairs`
-..- `Walking_Upsters`
+..* `Laying`
+..* `Sitting`
+..* `Standing`
+..* `Walking`
+..* `Walking_Downstairs`
+..* `Walking_Upsters`
 
 ## Measurements:
 

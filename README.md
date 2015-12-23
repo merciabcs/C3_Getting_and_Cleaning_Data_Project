@@ -1,4 +1,4 @@
-# Read me
+# Read Me
 
 This is the repository for my course project for Getting and Cleaning
 Data from Coursera Data Science Specialization.
